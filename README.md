@@ -2,7 +2,7 @@
 
 A personal portfolio website built to showcase my transition from interstate heavy-vehicle driving and construction work toward a career as a Correctional Officer with the Tasmania Prison Service.
 
-**Live site:** (link added after deployment)
+**Live site:** https://somilror200.github.io/somil-garak-portfolio/
 
 ## About
 
